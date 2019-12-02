@@ -1,0 +1,15 @@
+S.No,Age,Gender,Diet,Cholestrol,Heart Disease
+1,15,Female,Low,Normal,No
+2,24,Male,Low,Normal,No
+3,60,Male,High,Boundry Line,Yes
+4,35,Female,High,High,Yes
+5,18,Male,Medium,High,No
+6,50,Female,High,Boundry Line,Yes
+7,85,Female,Low,Normal,No
+8,12,Male,Low,Normal,No
+9,22,Female,Medium,Boundry Line,Yes
+10,36,Male,Medium,High,Yes
+11,70,Male,Low,Normal,No
+12,42,Female,High,High,Yes
+13,88,Male,Medium,Normal,No
+14,76,Female,Low,Boundry Line,No
